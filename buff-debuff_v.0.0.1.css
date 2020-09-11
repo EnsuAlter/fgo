@@ -1,0 +1,336 @@
+i.buff-arts:after {
+	content: url("https://1.bp.blogspot.com/-ixvNTLM_CSs/X1odM-JKlcI/AAAAAAAABmI/chSJHhSy7RA7jON8HH_9PPmR8tQsAff5ACLcBGAsYHQ/s0/ArtsUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-buster:after {
+	content: url("https://1.bp.blogspot.com/-Zmc5pKczkUg/X1odPNOJrcI/AAAAAAAABm0/v_t815Us2KQcgDqMCveUdYZjQF_Y3uVnQCLcBGAsYHQ/s0/BusterUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-quick:after {
+	content: url("https://1.bp.blogspot.com/-g5M4HxwnJq0/X1odatag-EI/AAAAAAAABpc/QNwWKHgMlzAxAjwzd7hRMUdq5HhqpIo3ACLcBGAsYHQ/s0/QuickUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-arts:after {
+	content: url("https://1.bp.blogspot.com/-vojm-NMK_80/X1odvbyLY5I/AAAAAAAABrI/gqS85kwoiO0XRWgzmXeAQllaj7L1q00GgCLcBGAsYHQ/s0/ArtsDown.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-buster:after {
+	content: url("https://1.bp.blogspot.com/-OBdMv1FF0s8/X1odxZaZkSI/AAAAAAAABrk/2I7_dMBuI_U2u4yrjG13VzohmrTUAEnswCLcBGAsYHQ/s0/BusterDown.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-quick:after {
+	content: url("https://1.bp.blogspot.com/-qP3leKT4SYk/X1od4hIeCHI/AAAAAAAABtQ/nxad0huLdfcNbrFuxKLntfeP02w4GtrtgCLcBGAsYHQ/s0/QuickDown.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-arts-abs:after {
+	content: url("https://1.bp.blogspot.com/-Dn5TtpEew2w/X1odL4qck7I/AAAAAAAABmE/ph4--n90xzMAu8PlkEgT1isUpCnjS5aAACLcBGAsYHQ/s0/ArtsAbs.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-arts-dmg:after {
+	content: url("https://1.bp.blogspot.com/-R6s7xl2DmwA/X1odLwdG9UI/AAAAAAAABl8/wGhNPBgQBF4n_i5ljPWVIMvY8dlFcG-aACLcBGAsYHQ/s0/ArtsDmgUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-arts-res:after {
+	content: url("https://1.bp.blogspot.com/-LYEBWCjvsRY/X1odL4gkplI/AAAAAAAABmA/M6VSN7n0JjQ9A0qGrNygfIdzO7yEkDe7gCLcBGAsYHQ/s0/ArtsResUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-arts-up:after {
+	content: url("https://1.bp.blogspot.com/-ixvNTLM_CSs/X1odM-JKlcI/AAAAAAAABmI/chSJHhSy7RA7jON8HH_9PPmR8tQsAff5ACLcBGAsYHQ/s0/ArtsUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-field-burn:after {
+	content: url("https://1.bp.blogspot.com/-3C0rceMYYBQ/X1odUGm3wJI/AAAAAAAABnw/-agXR-hXtGE17uvu49ZYJqMyO7BmB9EKgCLcBGAsYHQ/s0/FieldBurning.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-field-water:after {
+	content: url("https://1.bp.blogspot.com/-GJyT36CyJSU/X1odU43EStI/AAAAAAAABn8/qDyxPuPN7MAGOGbc14XFn9Xy2LAJLXGkQCLcBGAsYHQ/s0/FieldWater.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-field-forest:after {
+	content: url("https://1.bp.blogspot.com/-yg9Oc_YcFjQ/X1odUpxLGwI/AAAAAAAABn0/P8doADl5h9Ac_fo9FdHZ4YlrWBTxBcykACLcBGAsYHQ/s0/FieldForest.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-invul:after {
+	content: url("https://1.bp.blogspot.com/-d2tK9ICdg68/X1odXiAgkoI/AAAAAAAABos/83hEfVUU0dgSREC_ByN0m3qQLA3A99eVwCLcBGAsYHQ/s0/Invul.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-invul-s:after {
+	content: url("https://1.bp.blogspot.com/-d2tK9ICdg68/X1odXiAgkoI/AAAAAAAABos/83hEfVUU0dgSREC_ByN0m3qQLA3A99eVwCLcBGAsYHQ/s0/Invul.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-arts-res:after {
+	content: url("https://1.bp.blogspot.com/-LYEBWCjvsRY/X1odL4gkplI/AAAAAAAABmA/M6VSN7n0JjQ9A0qGrNygfIdzO7yEkDe7gCLcBGAsYHQ/s0/ArtsResUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-buster-res:after {
+	content: url("https://1.bp.blogspot.com/-CBJlkrfwDX4/X1odOomNtsI/AAAAAAAABmw/TDdtzS5n_UQ5a_tWWHnmu4DnJjcarYExQCLcBGAsYHQ/s0/BusterResUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-quick-res:after {
+	content: url("https://1.bp.blogspot.com/-PIuEFJaz3rY/X1odaVIDfCI/AAAAAAAABpY/5eV5RpX0cCMCItz360uVwFQ9O0jkfnQ-ACLcBGAsYHQ/s0/QuickResUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-atk:after {
+	content: url("https://1.bp.blogspot.com/-Vt2KnhUVZWU/X1odNvVQ_PI/AAAAAAAABmY/oUaDdiwYtRoGboq0jrC-epQSG7FLQW7tACLcBGAsYHQ/s0/AtkUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-deff:after {
+	content: url("https://1.bp.blogspot.com/-tbjybC371bM/X1odS6mD74I/AAAAAAAABnc/5oldgxMdKgU2OTsT5s4fCpHoxipmlIGdACLcBGAsYHQ/s0/DeffUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-crit-dmg:after {
+	content: url("https://1.bp.blogspot.com/-qR9ifJGtehg/X1odSYCihfI/AAAAAAAABnU/vbVjai_V5Fc1zu5x1MxoTYWN8CpoeqPGgCLcBGAsYHQ/s0/CritDmgUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-crit-ch:after {
+	content: url("https://1.bp.blogspot.com/-v-xyOLLs-Yc/X1odSNYpqkI/AAAAAAAABnQ/wqKTtYVanOkFxLHOnaCrxpRNn3KcWEu9ACLcBGAsYHQ/s0/CritChUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-crit-dmg:after {
+	content: url("https://1.bp.blogspot.com/-a0XEVAw1NGg/X1odywoYWNI/AAAAAAAABr8/Pe56SpzT1OgWhcdIcZlOvyd7EWs8LaZZQCLcBGAsYHQ/s0/CritDmgDown.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-crit-ch:after {
+	content: url("https://1.bp.blogspot.com/-1ou_1y1Iv5Y/X1odyv0sdKI/AAAAAAAABr4/xeXgsEx98SseQWxtnJCZYD4jJlhT2Yw5wCLcBGAsYHQ/s0/CritChDown.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-dmg:after {
+	content: url("https://1.bp.blogspot.com/-3FMUNSFL5Uc/X1odTYHClmI/AAAAAAAABnk/089R0lZUdVg_8BGUVFtOBf2tWQvebaYfQCLcBGAsYHQ/s0/DmgUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-dmg-res:after {
+	content: url("https://1.bp.blogspot.com/-OkxbjnR4MnA/X1odSyrTw5I/AAAAAAAABng/QKVkI2eeAbw6pZvytVL4JiiP5V3a7u59gCLcBGAsYHQ/s0/DmgResUp%2Bcopy.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-guts:after {
+	content: url("https://1.bp.blogspot.com/-fPK5HwwA4_c/X1odVmrdIDI/AAAAAAAABoE/QFlPcMeuLMAgRjJZLijhqeeQRUmjsB4oQCLcBGAsYHQ/s0/Guts.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-star-gain:after {
+	content: url("https://1.bp.blogspot.com/-7wNZ55Ps14w/X1odb5JtOZI/AAAAAAAABp0/SmEsETaABNU4Ut26W-bYHUcA2gCDJ99ZQCLcBGAsYHQ/s0/StarGainUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-star-regen:after {
+	content: url("https://1.bp.blogspot.com/-QZR-CuEqqpQ/X1odb037jtI/AAAAAAAABp4/11aE2EgNMSg2Mjs5mfPx1zWPCPw9FiB0gCLcBGAsYHQ/s0/StarRegen.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-heal:after {
+	content: url("https://1.bp.blogspot.com/-0Er8jwJE7YQ/X1odVgqhvCI/AAAAAAAABoI/3GDlhq48sswnbPbV3nhNCBSP2Mszg6tUACLcBGAsYHQ/s0/Heal.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-heal-up:after {
+	content: url("https://1.bp.blogspot.com/-4v48VN9wh5E/X1odWLWEFPI/AAAAAAAABoQ/Yn4FBVObwhMXE2vMH0urivTTYxg6Kc0kQCLcBGAsYHQ/s0/HealUp.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-heal:after {
+	content: url("https://1.bp.blogspot.com/-8W6JztAkuo4/X1od0g2Q2SI/AAAAAAAABsY/w4h7uUPs8KwXJ2Mh0h4X9Db_Udh6y2oSQCLcBGAsYHQ/s0/HealDown.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-heal-regen:after {
+	content: url("https://1.bp.blogspot.com/-YbNI-tSNEBM/X1odV-aapMI/AAAAAAAABoM/vhu2JYDfhEo38oiXK84cgUOuhp09X_zHwCLcBGAsYHQ/s0/HealRegen.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-hp:after {
+	content: url("https://1.bp.blogspot.com/-x_QQcrdOT8Q/X1odYHF0GPI/AAAAAAAABo4/aS-iGCMIwagfeyyPW0K8zgW6cSg7ySgKwCLcBGAsYHQ/s0/MaxHP.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-hp:after {
+	content: url("https://1.bp.blogspot.com/-XjBJSckmua8/X1od1dBl90I/AAAAAAAABsk/bFtPEeIE-LQgCBjZthvvbuk3Q2fHavTIwCLcBGAsYHQ/s0/MaxHPDown.png");
+	font-style: normal;
+	color: blue;
+}
+
+i.buff-np:after {
+	content: url("https://1.bp.blogspot.com/-ET0CHEAh4WY/X1odZJw8fdI/AAAAAAAABpI/phx2CgDVY8Y4vg1Q4t75UA4RpG-YYmdbQCLcBGAsYHQ/s0/NPUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-np-charge:after {
+	content: url("https://1.bp.blogspot.com/-dk3Z06fGP8k/X1odYcQpnHI/AAAAAAAABo8/1ud7ntSvgyUWqrF_fTi0KhMneSHh4TCcQCLcBGAsYHQ/s0/NPChargeUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-np-gain:after {
+	content: url("https://1.bp.blogspot.com/-5dyT-bFWTkY/X1odYTdkGAI/AAAAAAAABpA/HHSqnYia3_AnEvz8xNM7XNj8uyS8zTvXQCLcBGAsYHQ/s0/NPGainUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-np-regen:after {
+	content: url("https://1.bp.blogspot.com/-6TXduwf1DF0/X1odY7u47RI/AAAAAAAABpE/nSO2dtclsiIuxqgAyTy6xsNLhuzCmEJ5QCLcBGAsYHQ/s0/NPRegen.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-immun:after {
+	content: url("https://1.bp.blogspot.com/-opKg2KqeC-o/X1odXAR_dUI/AAAAAAAABog/bGA5cf_WPSEJV2NMPPTRuhR1CS2IjfJQgCLcBGAsYHQ/s0/Immun.png");
+	font-style: normal;
+	color: orange;
+}
+i.buff-target:after {
+	content: url("https://1.bp.blogspot.com/-6VRMf9QM3Jo/X1odc5zEX_I/AAAAAAAABqM/3DAf3nyz5Q8Wdf4nIXLnQSQ59Wx6IKktgCLcBGAsYHQ/s0/TargetUp.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-target:after {
+	content: url("https://1.bp.blogspot.com/-sCf2XmQkGfY/X1odct4kUVI/AAAAAAAABqI/QhYRRw9Zmswdu60758rKVrxucilJS-22ACLcBGAsYHQ/s0/TargetDown.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-stun:after {
+	content: url("https://1.bp.blogspot.com/-CM-Z0C4brhA/X1od741aP9I/AAAAAAAABt8/gouyuPmkua0frw7ZSeq9wSL6ZEQZ8s1cACLcBGAsYHQ/s0/Stun.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-charm:after {
+	content: url("https://1.bp.blogspot.com/-EbAnbgkrhh8/X1odyQ6eYiI/AAAAAAAABr0/eWHSceBLL3sqAAz-dhS3jXZZivSSrVsOwCLcBGAsYHQ/s0/Charm.png");
+	font-style: normal;
+	color: orange;
+}
+i.debuff-arts-seal:after {
+	content: url("https://1.bp.blogspot.com/-xCyBtPZxLug/X1odvDPuYWI/AAAAAAAABrM/WoYo6KmxqH0IN59A6BhkYGM9pt5FdAM_QCLcBGAsYHQ/s0/ArtsSeal.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-buster-seal:after {
+	content: url("https://1.bp.blogspot.com/-ZTQda4EsFBk/X1odx-kYVJI/AAAAAAAABrs/walBo8yI0g0T9kx5v7ZbdEjoJXc5e-jmgCLcBGAsYHQ/s0/BusterSeal.png.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-quick-seal:after {
+	content: url("https://1.bp.blogspot.com/-gTvGw758g5o/X1od5ks669I/AAAAAAAABtc/77N3_1npFksFHX19qe-7oyp1WyCAYYzjwCLcBGAsYHQ/s0/QuickSeal.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-atk:after {
+	content: url("https://1.bp.blogspot.com/-cThRNHpEySA/X1odwNuAqfI/AAAAAAAABrU/3ejLjMkOKh4dOLsH-9Kv7ITOA6v7pWGYACLcBGAsYHQ/s0/AtkDown.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-deff:after {
+	content: url("https://1.bp.blogspot.com/-YXW_1UibCiU/X1odz3KVpAI/AAAAAAAABsM/jm1hDfCsW8AMHIYDEtKRdlhbyIbPbFatgCLcBGAsYHQ/s0/DeffDown.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-null:after {
+	content: url("https://1.bp.blogspot.com/-0Zan3GiaTAI/X1od34b7avI/AAAAAAAABs8/ftsasPgJc4kEKXrlVFVkaXoiyL3Ky_tbgCLcBGAsYHQ/s0/NullBuff.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-skill-seal:after {
+	content: url("https://1.bp.blogspot.com/-gxaxdniv46o/X1od7LuF16I/AAAAAAAABts/piEJRMsjDTge4FuTefUhOKFKpTer1JFNwCLcBGAsYHQ/s0/SkillSeal.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-np:after {
+	content: url("https://1.bp.blogspot.com/-btmrGON-NNc/X1od2W0MTpI/AAAAAAAABss/Sdy3G4HNtYsvp3zlfbb6XD9AsRXFbs6ngCLcBGAsYHQ/s0/NPDmgDown.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-time:after {
+	content: url("https://1.bp.blogspot.com/-avWrgNSfz3o/X1od8WqjrpI/AAAAAAAABuE/iOITywIhVDUkgZ5ciKUOJaaIlUT5_L0cACLcBGAsYHQ/s0/TimeDebuff.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-time-death:after {
+	content: url("https://1.bp.blogspot.com/-H_5Yc1Pm6tA/X1odden5LpI/AAAAAAAABqU/VFVTAWjpWi0vVmG0A-86r9oAdrmw02UNgCLcBGAsYHQ/s0/TimeBuffDeath.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-time-death:after {
+	content: url("https://1.bp.blogspot.com/-a-e-X-OB4z8/X1od8zpKhBI/AAAAAAAABuM/nrKWFwYWFcIJRzxHdIxy3xS0yL_xo6ZOACLcBGAsYHQ/s0/TimeDebuffDeath.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-time-defeat:after {
+	content: url("https://1.bp.blogspot.com/-gqr4r0He3CE/X1oddao-RyI/AAAAAAAABqY/yhLMYZb9qYsHwjnFjrIty8nfBGehr_59QCLcBGAsYHQ/s0/TimeBuffDefeat.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-time-defeat:after {
+	content: url("https://1.bp.blogspot.com/-cOWFINUhz94/X1od8hokyvI/AAAAAAAABuI/22CD2Bg0gC4pulTN7R7yETuNjMq2d0ugACLcBGAsYHQ/s0/TimeDebuffDefeat.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-atk-minus:after {
+	content: url("https://1.bp.blogspot.com/-CSxxpLHydS8/X1odwngEnyI/AAAAAAAABrY/MFwVHaly1EIxcn3UY1v59vd3GyVthBsqQCLcBGAsYHQ/s0/AtkMinus.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-poison:after {
+	content: url("https://1.bp.blogspot.com/-WvNAUgfN5IM/X1od4b0HfyI/AAAAAAAABtM/fhVCATRFaD0ElalntBcOJrKCD_TlIWYnACLcBGAsYHQ/s0/Poison.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-burn:after {
+	content: url("https://1.bp.blogspot.com/--S7RD--QV1A/X1odxDhdW-I/AAAAAAAABrc/xKqGRuPdJ4k2vav3KKQvk8cy_Zc_P1LhwCLcBGAsYHQ/s0/Burn.png");
+	font-style: normal;
+	color: blue;
+}
+i.debuff-burn-up:after {
+	content: url("https://1.bp.blogspot.com/-qLdNm-ZTkKA/X1odxSsv6GI/AAAAAAAABrg/pMjO5-ft9CIHS2hduNQs6MwB6kSKJh4UgCLcBGAsYHQ/s0/BurnUp.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-ignore-deff:after {
+	content: url("https://1.bp.blogspot.com/-ngWQ3d1fodE/X1odWXuXaHI/AAAAAAAABoY/69fccOwDIwMrf5YYxmltOT8C0l6ltbo0QCLcBGAsYHQ/s0/IgnoreDeff.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-ignore-invul:after {
+	content: url("https://1.bp.blogspot.com/-vVWZF3XQXC8/X1odWqaGZZI/AAAAAAAABoc/9DWj3vFfUtwkWheFxensu-1U-azn8uIZgCLcBGAsYHQ/s0/IgnoreInvul.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-ignore-evade:after, i.buff-sure-hit:after {
+	content: url("https://1.bp.blogspot.com/-FMnlm9pELJc/X1odcu1xWKI/AAAAAAAABqE/Qo6r7N37AnEo0I31BVKYj__jABLnVcq5QCLcBGAsYHQ/s0/SureHit.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-atk-plus:after {
+	content: url("https://1.bp.blogspot.com/-1PjYQnz_whg/X1odNRu6aKI/AAAAAAAABmU/OWR7CLjO1_kFEcj4WH-af1DMZfDcxAY9gCLcBGAsYHQ/s0/AtkPlus.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-atk-minus:after {
+	content: url("https://1.bp.blogspot.com/-meohNQgvxkk/X1odNAKiQcI/AAAAAAAABmQ/CUj0vEP47Mc0artzJxjf_ydewGVwoo9uQCLcBGAsYHQ/s0/AtkDebuff.png");
+	font-style: normal;
+	color: blue;
+}
+i.buff-trait:after {
+	content: url("https://1.bp.blogspot.com/-VCQbM9YYvSo/X1odTQE5PPI/AAAAAAAABno/YvfLXVRO0vwuNSM3FfVh755A-MmMrEmNQCLcBGAsYHQ/s0/Dragontrait%2Bcopy.png");
+	font-style: normal;
+	color: blue;
+}
